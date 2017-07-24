@@ -8,4 +8,4 @@ rbenv global 2.3.1
 gem install bundler
 rbenv rehash
 
-brew cask install rubymine
+# brew cask install rubymine

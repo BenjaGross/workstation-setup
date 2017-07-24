@@ -15,17 +15,17 @@ clear
 echo
 echo "Setting up a '$SETUP_TYPE' machine..."
 
-source ${MY_DIR}/xcode-license.sh
+# source ${MY_DIR}/xcode-license.sh
 
 # Note: Homebrew needs to be set up first
-source ${MY_DIR}/homebrew.sh
-source ${MY_DIR}/configuration-osx.sh
-source ${MY_DIR}/configuration-bash.sh
-source ${MY_DIR}/git.sh
-source ${MY_DIR}/git-aliases.sh
-source ${MY_DIR}/java.sh
-source ${MY_DIR}/cloud.sh
-source ${MY_DIR}/applications-common.sh
+# source ${MY_DIR}/homebrew.sh
+# source ${MY_DIR}/configuration-osx.sh
+# source ${MY_DIR}/configuration-bash.sh
+# source ${MY_DIR}/git.sh
+# source ${MY_DIR}/git-aliases.sh
+# source ${MY_DIR}/java.sh
+# source ${MY_DIR}/cloud.sh
+# source ${MY_DIR}/applications-common.sh
 
 if [ "${SETUP_TYPE}" == "labs-engineer" ]
 then

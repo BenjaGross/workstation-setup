@@ -6,8 +6,8 @@ brew install git-duet
 brew install git-pair
 brew install seattle-beach/tap/git-together
 
-brew cask install github-desktop
-brew cask install rowanj-gitx
+# brew cask install github-desktop
+# brew cask install rowanj-gitx
 brew cask install sourcetree
 
 echo

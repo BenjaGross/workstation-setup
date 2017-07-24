@@ -28,14 +28,14 @@ brew cask install firefox
 
 brew cask install slack
 brew cask install screenhero
-brew cask install skype
-brew cask install zoomus
+# brew cask install skype
+# brew cask install zoomus
 
 # Text Editors
 
 brew cask install macdown
 brew cask install sublime-text
-brew cask install textmate
+# brew cask install textmate
 brew cask install macvim
 
 # Emulation tools
