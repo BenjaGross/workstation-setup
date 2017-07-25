@@ -1,4 +1,4 @@
-echo
+# echo
 # prereqs
 # brew tap OJFord/formulae
 # brew install loginitems
@@ -32,5 +32,5 @@ echo "Setting up Pivotal IDE preferences..."
 # pushd pivotal_ide_prefs/cli/
 # ./bin/ide_prefs install --ide=intellij
 # ./bin/ide_prefs install --ide=rubymine
-popd
-popd
+# popd
+# popd

@@ -5,6 +5,7 @@ brew tap git-duet/tap
 brew install git-duet
 brew install git-pair
 brew install seattle-beach/tap/git-together
+brew install tig
 
 # brew cask install github-desktop
 # brew cask install rowanj-gitx

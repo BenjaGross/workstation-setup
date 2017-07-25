@@ -7,3 +7,4 @@ apm install git-blame
 apm install pigments
 apm install emmet
 apm install file-icons
+apm install pane-layout-plus
