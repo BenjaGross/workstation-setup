@@ -1,0 +1,9 @@
+apm install linter
+apm install linter-rubocop
+apm install react
+apm install linter-eslint
+apm install todo-show
+apm install git-blame
+apm install pigments
+apm install emmet
+apm install file-icons
