@@ -8,3 +8,5 @@ apm install pigments
 apm install emmet
 apm install file-icons
 apm install pane-layout-plus
+apm install atom-typescript
+apm install local-server-express
